@@ -1,13 +1,16 @@
 # 🤖 Fine-Tuning Large Language Models
 
-📘 Coursera Project – DeepLearning.AI  
+📒 **Project Notebook:** [finetuning_llm/notebooks](https://github.com/Isha1600/LLM-Finetuning/tree/main/notebooks)
 
+📘 Coursera Project – DeepLearning.AI
+
+---
 
 ## Overview
 
-This project explores **fine-tuning of Large Language Models (LLMs)** using custom datasets to improve performance on specific tasks.
+This project explores **fine-tuning of Large Language Models (LLMs)** to improve performance on specific tasks using custom datasets.
 
-It demonstrates how fine-tuning updates model weights and differs from techniques like prompt engineering and retrieval-based methods.
+The project demonstrates how model weights can be updated to adapt LLMs beyond prompt engineering and retrieval-based methods.
 
 ---
 
@@ -21,12 +24,13 @@ Python • TensorFlow • PyTorch • NLP
 
 - Fine-tuning vs Prompt Engineering  
 - Data preparation for LLM training  
-- Model training and evaluation  
-- Improving performance using custom datasets  
+- Training and evaluation of LLMs  
+- Improving model performance using custom data  
 
 ---
 
 ## Outcome
 
-Developed practical understanding of **LLM fine-tuning**, enabling models to adapt to domain-specific tasks and improve prediction quality.
+Gained practical understanding of **fine-tuning LLMs**, enabling models to learn domain-specific patterns, improve accuracy, and adapt to new tasks.
+
 
